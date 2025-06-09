@@ -9,3 +9,15 @@ _If you know of software that meets the criteria, please create a pull request_
 ## System Management
 
 - [RustDesk](https://rustdesk.com/) - Access a machine remotely. Like TeamViewer, etc, but with a self-hosted option
+- [Vigil](https://github.com/valeriansaliou/vigil) - A microserver status page with monitoring
+- [MinMon](https://github.com/flo-at/minmon) - Monitoring and Alerting without the UI
+- [October](https://github.com/bltavares/october) - Wake-on-Lan service with a clever name
+
+## Utilities
+
+- [HurlUrl](https://github.com/lucasmerlin/hurlurl) - A load-balancing url shortener
+
+## Fediverse
+
+- [Plume](https://github.com/Plume-org/Plume) - A blogging platform with ActivityPub support
+- 
