@@ -17,6 +17,10 @@ _If you know of software that meets the criteria, please create a pull request_
 
 - [HurlUrl](https://github.com/lucasmerlin/hurlurl) - A load-balancing url shortener
 
+## AI / LLM
+
+- [Kaeso](https://kaeso.app) - The open-source AI gateway you run yourself
+
 ## Fediverse
 
 - [Plume](https://github.com/Plume-org/Plume) - A blogging platform with ActivityPub support
